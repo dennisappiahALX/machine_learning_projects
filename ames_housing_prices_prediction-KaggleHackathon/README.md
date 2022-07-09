@@ -1,3 +1,3 @@
 # Ames House Price Predictor
-This hackathon project focuses on the prediction of Ames Real Estate Houses for the next period of time.
 
+🏡Predictor that has multiple options to choose from database, so you can predict the price of your dream home at Ames.
